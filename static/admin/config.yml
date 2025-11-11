@@ -1,11 +1,11 @@
 # Configuração do Backend (Onde salvar)
 backend:
   name: github
-  repo: zoe-ai # <<< IMPORTANTE: O nome do seu repositório
-  branch: main # <<< IMPORTANTE: O branch principal (geralmente 'main' ou 'master')
+  repo: Pauloxhbh/Zoe-ai # <<< MUITO IMPORTANTE!
+  branch: main # <<< Confira se 'main' é o nome do seu branch principal
 
 # Configuração de Mídia (Onde salvar imagens)
-media_folder: "static/images/uploads" # Onde o CMS salva as imagens
+media_folder: "static/images/uploads" 
 public_folder: "/images/uploads"      # Como o site acessa as imagens
 
 # Configuração de Coleções (Onde você vai escrever)
