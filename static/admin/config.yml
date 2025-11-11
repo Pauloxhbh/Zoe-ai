@@ -1,6 +1,6 @@
 # Configuração do Backend (Onde salvar)
 backend:
-  name: git-gateway # <<< ESTA É A CORREÇÃO!
+  name: github # <<< VAMOS USAR ISTO DIRETAMENTE
   repo: Pauloxhbh/Zoe-ai
   branch: main
 
