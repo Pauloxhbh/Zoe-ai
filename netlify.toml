@@ -1,5 +1,5 @@
 [build]
-  command = "npm ci && hugo --gc"
+  command = "npm install && hugo --gc"
   publish = "public"
 
 [build.environment]
