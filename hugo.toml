@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://zoe.ai/"
 languageCode = "pt-br"
 title = "Meu Site de Maternidade"
 theme = "github.com/apvarun/blist-hugo-theme"
