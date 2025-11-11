@@ -1,7 +1,7 @@
 baseURL = "https://zoe-maternidade.netlify.app/"
 languageCode = "pt-br"
 title = "Meu Site de Maternidade"
-theme = "#github.com/apvarun/blist-hugo-theme"
+theme = "github.com/theNewDynamic/gohugo-theme-ananke" # <<< A LINHA CORRIGIDA
 
 [module]
   [module.hugoVersion]
