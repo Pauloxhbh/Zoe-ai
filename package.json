@@ -1,0 +1,10 @@
+{
+  "name": "zoe-ai",
+  "version": "1.0.0",
+  "description": "Site de Maternidade Zoe-ai",
+  "devDependencies": {
+    "postcss": "^8.4.0",
+    "postcss-cli": "^9.1.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
