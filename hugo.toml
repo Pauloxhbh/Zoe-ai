@@ -1,9 +1,13 @@
 baseURL = "https://zoe-maternidade.netlify.app/"
 languageCode = "pt-br"
 title = "Meu Site de Maternidade"
-theme = "github.com/theNewDynamic/gohugo-theme-ananke" # <<< A LINHA CORRIGIDA
 
 [module]
+  # ESTA É A FORMA CORRETA DE IMPORTAR O TEMA
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
+  
+  # Isto é o que já tínhamos para a versão do Hugo
   [module.hugoVersion]
     extended = false
     min = "0.110.0"
